@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+pydantic
+firebase_admin
+python-dotenvequests
